@@ -6,13 +6,17 @@
 <h5>🌎 Latam</h5>
 <ul>
   <li>Whatsapp https://chat.whatsapp.com/GaT6Y73EoOM02y02F8PtW6</li>
-  <li>Grupo LinkedIn: https://www.linkedin.com/groups/12483463/ </li>
 </ul>
 
 <h5>🌎 Centroamérica</h5>
 <ul>
   <li>Whatsapp https://chat.whatsapp.com/LtiRIZnYby4AUmlS4yU5z6</li>
 </ul>
+
+<h5>🌎 Todos</h5>
+<ul>
+<li>Grupo LinkedIn: https://www.linkedin.com/groups/12483463/ </li>
+</li>
 
 <h3>Por países:</h3>
 

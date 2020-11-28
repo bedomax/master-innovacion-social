@@ -1,5 +1,5 @@
 <h1>Grupos de chat Master de Innovación Social</h1>
-<p>Listado de los grupos que se crearon orgánicamente del master https://edu.playground.media/</p>
+<p>Listado de los grupos que se crearon orgánicamente para el master https://edu.playground.media/</p>
 
 <h3>Por continente:</h3>
 

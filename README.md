@@ -17,6 +17,7 @@
 <ul>
 <li>Grupo LinkedIn: https://www.linkedin.com/groups/12483463/ </li>
 </li>
+</ul>
 
 <h3>Por países:</h3>
 
